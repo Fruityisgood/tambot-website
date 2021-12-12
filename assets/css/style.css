@@ -6,6 +6,7 @@
   --background-color: #23272a;
   --background-color-hover: #3f4246;
   --background-color-accent: #ffffff;
+  --background-image: url(Images/block.gif);
 }
 
 html {
